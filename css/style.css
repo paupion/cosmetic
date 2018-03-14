@@ -1,0 +1,20 @@
+header{
+    color: rgb(248, 21, 21);
+    text-align: center;
+    background: rgb(152, 231, 227);
+}
+h2{
+    color: rgb(184, 12, 98);
+}
+span{
+    color: rgba(209, 9, 9, 0.795);
+    font-size:20px;
+}
+p{
+    font-size: 15px;
+}
+li{
+    padding: 6px;
+    font-size: 15px;
+} 
+
